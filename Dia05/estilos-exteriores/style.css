@@ -1,0 +1,22 @@
+* {
+    background-color: rgb(45, 784, 451);
+}
+
+header {
+    width: 90%; 
+    background-color: rgb(92, 100, 92);
+}
+
+h1 {
+    color:rgb(4, 64, 175);
+    font-size: 40px;
+    width: 60%;
+    background-color: yellowgreen;  
+      
+}
+
+small {
+    width: 20%;
+    background-color: violet;    
+    
+}
